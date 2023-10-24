@@ -1,0 +1,5 @@
+- tasks:
+  - seperate footer, result, and summary from each other
+    - result should be on the left
+    - summary should be on the right
+    - footer should be in the middle and at the bottom
